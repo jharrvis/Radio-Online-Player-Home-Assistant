@@ -1,0 +1,8 @@
+
+      - type: entities
+        entities:
+          - entity: input_select.stasiun_radio
+          - entity: input_select.speaker
+          - entity: input_number.volume_radio
+          - entity: script.radioonline
+        title: Radio Online
