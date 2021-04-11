@@ -28,3 +28,6 @@ Edit View Dashboard :
 Link list URL Streaming 
 1. https://gist.github.com/amdersz5g7/9b6b73b715901955187e0428ffefc4e8
 2. https://gist.githubusercontent.com/eRQee/557f53e75f943391e21918233b5ee4b9/raw/79e15d3a01ed4c3b82c39be573d9e0c025d3cb7f/indonesia-radio.m3u
+
+VIDEO TUTORIAL
+- [YOUTUBE](https://www.youtube.com/watch?v=ziDCi2S2Nn4)
