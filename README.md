@@ -13,7 +13,7 @@ Jika hanya ada 1 smart speaker maka tidak perlu membuat helper ini.
 Helper ini berisi nama stasiun radio yang ingin kita tambahkan ke Playlist.
 - Pilih Helper tipe Dropdown
 - lalu masukan option nama stasiun radio.
-- Detail : lihat file helper_stasiun_radio.jpg
+- Detail : lihat file [helper_stasiun_radio.jpg](https://github.com/jharrvis/Radio-Online-Player-Home-Assistant/blob/main/helper_stasiun_radio.jpg)
 
 Step 2
 Membuat Script:
@@ -23,7 +23,7 @@ Membuat Script:
 Step 3
 Edit View Dashboard :
 - Menambahkan entities selector dan entity script pada dashboard view.
-- lihat file view_dashboard.jpg
+- lihat file [view_dashboard.jpg](https://github.com/jharrvis/Radio-Online-Player-Home-Assistant/blob/main/view-dashboard.jpg)
 
 Link list URL Streaming 
 1. https://gist.github.com/amdersz5g7/9b6b73b715901955187e0428ffefc4e8
