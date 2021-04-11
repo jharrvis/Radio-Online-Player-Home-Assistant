@@ -5,13 +5,15 @@ Membuat Helper :
 1. Helper Speaker (Optional) 
 Helper ini optional, berfungsi untuk memilih speaker mana radio akan di putar.
 Jika hanya ada 1 smart speaker maka tidak perlu membuat helper ini.
-Pilih Helper tipe Dropdown, lalu masukan option nama speaker.
-Detail : lihat file helper_speaker.jpg
+- Pilih Helper tipe Dropdown
+- lalu masukan option nama speaker.
+- Detail : lihat file helper_speaker.jpg
 
 2. Helper Selector Stasiun Radio
 Helper ini berisi nama stasiun radio yang ingin kita tambahkan ke Playlist.
-Pilih Helper tipe Dropdown, lalu masukan option nama stasiun radio.
-Detail : lihat file helper_stasiun_radio.jpg
+- Pilih Helper tipe Dropdown
+- lalu masukan option nama stasiun radio.
+- Detail : lihat file helper_stasiun_radio.jpg
 
 Step 2
 Membuat Script:
