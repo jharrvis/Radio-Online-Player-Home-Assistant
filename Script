@@ -1,0 +1,26 @@
+radioonline:
+  alias: RadioOnline
+  sequence:
+  - service: media_player.volume_set
+    target:
+      entity_id: media_player.family_room
+    data:
+      volume_level: 0.5
+  - service: media_player.play_media
+    data_template:
+      entity_id: '{% if is_state("input_select.speaker", "Family Room") %} media_player.family_room
+        {% endif %}
+
+        '
+      media_content_id: '{% if is_state("input_select.stasiun_radio", "Geronimo Jogja")
+        %} http://live2.indostreamserver.com:8018/; {% elif is_state("input_select.stasiun_radio",
+        "Ardan Radio") %} http://listento.ardanradio.com:1059/; {% elif is_state("input_select.stasiun_radio",
+        "Oz Radio Bandung") %} http://45.64.97.211:1031/;stream.nsv {% elif is_state("input_select.stasiun_radio",
+        "Sindo Trijaya FM") %} http://202.147.199.101:8000/;stream.nsv {% elif is_state("input_select.stasiun_radio",
+        "Trax FM") %} https://stream.radiojar.com/rrqf78p3bnzuv {% elif is_state("input_select.stasiun_radio",
+        "Hard Rock") %} https://stream.radiojar.com/7csmg90fuqruv {% endif %}
+
+        '
+      media_content_type: audio/mp4
+  mode: single
+  icon: mdi:play
