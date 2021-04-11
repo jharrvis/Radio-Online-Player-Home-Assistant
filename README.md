@@ -17,7 +17,7 @@ Helper ini berisi nama stasiun radio yang ingin kita tambahkan ke Playlist.
 
 Step 2
 Membuat Script:
-- lihat contoh script nya pada file script
+- lihat contoh script nya pada file [script](https://github.com/jharrvis/Radio-Online-Player-Home-Assistant/blob/main/Script)
 - Mohon diperhatikan nama Stasiun Radio harus sama dengan option yang kita buat di helper stasiun radio
 
 Step 3
