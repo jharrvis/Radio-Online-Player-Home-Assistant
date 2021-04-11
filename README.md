@@ -14,11 +14,13 @@ Pilih Helper tipe Dropdown, lalu masukan option nama stasiun radio.
 Detail : lihat file helper_stasiun_radio.jpg
 
 Step 2
-Membuat Script, lihat contoh script nya pada file script
+Membuat Script:
+lihat contoh script nya pada file script
 Mohon diperhatikan nama Stasiun Radio harus sama dengan option yang kita buat di helper stasiun radio
 
 Step 3
-Menambahkan selector dan script pada dashboard view.
+Edit View Dashboard :
+Menambahkan entities selector dan entity script pada dashboard view.
 lihat file view_dashboard.jpg
 
 Link list URL Streaming 
