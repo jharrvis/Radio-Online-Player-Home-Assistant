@@ -15,13 +15,13 @@ Detail : lihat file helper_stasiun_radio.jpg
 
 Step 2
 Membuat Script:
-lihat contoh script nya pada file script
-Mohon diperhatikan nama Stasiun Radio harus sama dengan option yang kita buat di helper stasiun radio
+- lihat contoh script nya pada file script
+- Mohon diperhatikan nama Stasiun Radio harus sama dengan option yang kita buat di helper stasiun radio
 
 Step 3
 Edit View Dashboard :
-Menambahkan entities selector dan entity script pada dashboard view.
-lihat file view_dashboard.jpg
+- Menambahkan entities selector dan entity script pada dashboard view.
+- lihat file view_dashboard.jpg
 
 Link list URL Streaming 
 1. https://gist.github.com/amdersz5g7/9b6b73b715901955187e0428ffefc4e8
